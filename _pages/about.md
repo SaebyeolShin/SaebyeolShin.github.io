@@ -15,4 +15,4 @@ My research broadly lies in the areas of computer vision tasks but also interest
 
 ### CV
 
-Here is my [CV](../files/saebyeol_cv.pdf){:target="\_blank"}!
+Here is my [CV](../files/saebyeol_cv.pdf){:target="\_blank"} !
