@@ -7,6 +7,8 @@ author_profile: true
 
 ### 2022
 
+- **Accelerating CNN via Dynamic Pattern‑based Pruning Network**<br/>Gwanghan Lee, **Saebyeol Shin**, Simon S. Woo<br/>ACM International Conference on Information & Knowledge Management (CIKM), 2022
+
 - **Efficient Multi-Scale Feature Generation Network**<br/>Gwanghan Lee, **Saebyeol Shin**, Simon S. Woo<br/>Korea Computer Congress (KCC), 2022
 
 - **Deepfake Detection for Fake Images with Facemasks**<br/>Sangjun Lee∗, Donggeun Ko∗, Jinyong Park, **Saebyeol Shin**, Donghee Hong, Simon S. Woo<br/>Workshop on the security implications of Deepfakes and Cheapfakes (WDC), 2022<br/>[paper](https://dl.acm.org/doi/pdf/10.1145/3494109.3527189)
