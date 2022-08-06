@@ -20,3 +20,17 @@ author_profile: true
 
 |:-:|:----------------|
 | <img src="{{ site.url }}{{ site.baseurl }}/images/vfp290k.png" width="180px"> | **VFP290K: A Large‑Scale Benchmark Dataset for Vision‑based Fallen Person Detection**<br/>Jaeju An∗, Jeongho Kim∗, Hanbeen Lee, Jinbeom Kim, Junhyung Kang, Minha Kim, **Saebyeol Shin**, Minha Kim, Donghee Hong, Simon S. Woo<br/>Neural Information Processing Systems (NeurIPS), 2021<br/>[paper](https://openreview.net/pdf?id=y2AbfIXgBK3) \| [code](https://github.com/DASH-Lab/VFP290K) \| [site](https://sites.google.com/view/dash-vfp300k/) |
+
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="vfp290k.jpg" alt="">
+  </div>
+  <div>
+    <h2>Some title text</h2>
+    <p>**VFP290K: A Large‑Scale Benchmark Dataset for Vision‑based Fallen Person Detection**
+    <br/>Jaeju An∗, Jeongho Kim∗, Hanbeen Lee, Jinbeom Kim, Junhyung Kang, Minha Kim, **Saebyeol Shin**, Minha Kim, Donghee Hong, Simon S. Woo
+    <br/>Neural Information Processing Systems (NeurIPS), 2021
+    <br/>[paper](https://openreview.net/pdf?id=y2AbfIXgBK3) \| [code](https://github.com/DASH-Lab/VFP290K) \| [site](https://sites.google.com/view/dash-vfp300k/)
+    </p>
+  </div>
+</div>
