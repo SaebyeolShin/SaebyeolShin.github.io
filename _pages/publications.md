@@ -7,6 +7,7 @@ author_profile: true
 
 ### 2022
 
+|:--:|:----------------|
 | <img src="{{ site.url }}{{ site.baseurl }}/images/DPPNet.png" width="200px"> | **Accelerating CNN via Dynamic Pattern‑based Pruning Network**<br/>Gwanghan Lee, **Saebyeol Shin**, Simon S. Woo<br/>ACM International Conference on Information & Knowledge Management (CIKM), 2022 　　　　　　　　　　 　　　　　　　　　　　|
 
 | <img src="{{ site.url }}{{ site.baseurl }}/images/EMGNet.png" width="200px"> | **Efficient Multi-Scale Feature Generation Network**<br/>Gwanghan Lee, **Saebyeol Shin**, Simon S. Woo<br/>Korea Computer Congress (KCC), 2022 　　　　　　　　　　 　　　　　　　　　　　 　　　　　　　　　　 　　　　　　　　　　　 　　　　　　　　　　 |
