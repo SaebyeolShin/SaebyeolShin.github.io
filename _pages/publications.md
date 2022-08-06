@@ -23,7 +23,7 @@ author_profile: true
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="vfp290k.jpg" alt="">
+    <img src="vfp290k.jpg" width="180px">
   </div>
   <div>
     <h2>Some title text</h2>
