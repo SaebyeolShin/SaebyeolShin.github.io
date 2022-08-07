@@ -13,6 +13,6 @@ Previously I interned at [DASH Lab](https://dash-lab.github.io/) advised by Prof
 
 My research broadly lies in developing efficient networks. Specifically, I would like to advance the performance as well as the efficiency of deep learning models in various tasks such as computer vision and NLP. Please reach out if you'd like to chat or collaborate with me.
 
-### CV
+<!-- ### CV -->
 
-Here is my [CV](../files/saebyeol_cv.pdf){:target="\_blank"} !
+<!-- Here is my [CV](../files/saebyeol_cv.pdf){:target="\_blank"} ! -->
