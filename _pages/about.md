@@ -15,6 +15,8 @@ My research broadly lies in developing efficient networks. Specifically, I would
 
 ---
 
+# Publications
+
 ## 2022
 
 - **Accelerating CNN via Dynamic Pattern‑based Pruning Network**
