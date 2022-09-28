@@ -13,7 +13,7 @@ Previously I interned at [DASH Lab](https://dash-lab.github.io/) advised by Prof
 
 My research broadly lies in developing efficient networks. Specifically, I would like to advance the performance as well as the efficiency of deep learning models in various tasks such as Computer Vision and NLP. Please reach out if you'd like to chat or collaborate with me.
 
-===
+---
 
 ## 2022
 
