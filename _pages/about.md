@@ -22,7 +22,7 @@ My research broadly lies in developing efficient networks. Specifically, I would
 - **Accelerating CNN via Dynamic Pattern‑based Pruning Network**
   <br/>Gwanghan Lee, **Saebyeol Shin**, Simon S. Woo
   <br/>ACM International Conference on Information & Knowledge Management (CIKM), 2022
-  <br/>[paper](../files/dpp_net.pdf) \| [code](https://github.com/SaebyeolShin/DPPNet)
+  <br/>[paper](../files/dpp_net.pdf) \| [code](https://github.com/SaebyeolShin/DPPNet) \| [web](https://sites.google.com/g.skku.edu/dppnet/)
 
 - **Efficient Multi-Scale Feature Generation Network**
   <br/>Gwanghan Lee, **Saebyeol Shin**, Simon S. Woo
