@@ -22,12 +22,12 @@ Please reach out if you'd like to chat or collaborate with me.
 - **Accelerating CNN via Dynamic Pattern‑based Pruning Network**
   <br/>Gwanghan Lee, **Saebyeol Shin**, Simon S. Woo
   <br/>ACM International Conference on Information & Knowledge Management (CIKM), 2022
-  <br/>[paper](../files/dpp_net.pdf) \| [code](https://github.com/SaebyeolShin/DPPNet) \| [web](https://sites.google.com/g.skku.edu/dppnet/)
+  <br/>[paper](https://dl.acm.org/doi/10.1145/3511808.3557225) \| [code](https://github.com/SaebyeolShin/DPPNet) \| [web](https://sites.google.com/g.skku.edu/dppnet/)
 
 - **Efficient Multi-Scale Feature Generation Network**
   <br/>Gwanghan Lee, **Saebyeol Shin**, Simon S. Woo
   <br/>Korea Computer Congress (KCC), 2022
-  <br/>[paper](../files/emg_net.pdf)
+  <br/>[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113433)
 
 - **Deepfake Detection for Fake Images with Facemasks**
   <br/>Sangjun Lee∗, Donggeun Ko∗, Jinyong Park, **Saebyeol Shin**, Donghee Hong, Simon S. Woo
@@ -39,7 +39,7 @@ Please reach out if you'd like to chat or collaborate with me.
 - **VFP290K: A Large‑Scale Benchmark Dataset for Vision‑based Fallen Person Detection**
   <br/>Jaeju An∗, Jeongho Kim∗, Hanbeen Lee, Jinbeom Kim, Junhyung Kang, Minha Kim, **Saebyeol Shin**, Minha Kim, Donghee Hong, Simon S. Woo
   <br/>Neural Information Processing Systems (NeurIPS), 2021
-  <br/>[paper](https://openreview.net/pdf?id=y2AbfIXgBK3) \| [code](https://github.com/DASH-Lab/VFP290K) \| [web](https://sites.google.com/view/dash-vfp300k/)
+  <br/>[paper](https://openreview.net/forum?id=y2AbfIXgBK3) \| [code](https://github.com/DASH-Lab/VFP290K) \| [web](https://sites.google.com/view/dash-vfp300k/)
 
 <!-- ### CV -->
 
