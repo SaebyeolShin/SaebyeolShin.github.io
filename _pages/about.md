@@ -17,6 +17,8 @@ Feel free to reach out if you'd like to chat or collaborate with me.
 
 # Publications
 
+\* indicates Equal Contributions
+
 ## 2023
 
 - **A-ColViT: Real-time Interactive Colorization by Adaptive Vision Transformer**
