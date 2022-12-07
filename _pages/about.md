@@ -16,7 +16,7 @@ Previously I interned at [DASH Lab](https://dash-lab.github.io/) advised by Prof
 [4,](http://www.worktoday.co.kr/news/articleView.html?idxno=30277)
 [5,](https://www.yna.co.kr/view/PYH20221118022100013?input=1913m)
 [6,](https://biz.chosun.com/it-science/ict/2022/11/18/25ZF4WKSK5HUPNYBRQHM6UKZNU/)
-[7,](https://www.koit.co.kr/news/articleView.html?idxno=105885)
+[7](https://www.koit.co.kr/news/articleView.html?idxno=105885)
 ]).
 
 Feel free to reach out if you'd like to chat or collaborate with me.
