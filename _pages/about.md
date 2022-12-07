@@ -9,7 +9,15 @@ redirect_from:
 
 Hi, I'm Saebyeol, from South Korea 🇰🇷.
 I am undergraduate student majoring in Data Science and Computer Science & Engineering at [Sungkyunkwan University](https://www.skku.edu/eng/).
-Previously I interned at [DASH Lab](https://dash-lab.github.io/) advised by Prof. Simon S. Woo, and at SK Telecom working with SKT SUPERNOVA team in 2022.
+Previously I interned at [DASH Lab](https://dash-lab.github.io/) advised by Prof. Simon S. Woo, and at SK Telecom working with SKT SUPERNOVA team in 2022 (articles[
+[1,](http://www.newsroad.co.kr/news/articleView.html?idxno=20959)
+[2,](http://www.aifnlife.co.kr/news/articleView.html?idxno=20186)
+[3,](http://www.jeonpa.co.kr/news/articleView.html?idxno=144726)
+[4,](http://www.worktoday.co.kr/news/articleView.html?idxno=30277)
+[5,](https://www.yna.co.kr/view/PYH20221118022100013?input=1913m)
+[6,](https://biz.chosun.com/it-science/ict/2022/11/18/25ZF4WKSK5HUPNYBRQHM6UKZNU/)
+[7,](https://www.koit.co.kr/news/articleView.html?idxno=105885)
+]).
 
 Feel free to reach out if you'd like to chat or collaborate with me.
 
@@ -49,8 +57,3 @@ Feel free to reach out if you'd like to chat or collaborate with me.
   <br/>Jaeju An\*, Jeongho Kim\*, Hanbeen Lee, Jinbeom Kim, Junhyung Kang, Minha Kim, **Saebyeol Shin**, Minha Kim, Donghee Hong, Simon S. Woo
   <br/>Neural Information Processing Systems (NeurIPS), 2021
   <br/>[paper](https://openreview.net/forum?id=y2AbfIXgBK3) \| [code](https://github.com/DASH-Lab/VFP290K) \| [web](https://sites.google.com/view/dash-vfp300k/)
-
-# News
-```
-something
-```
