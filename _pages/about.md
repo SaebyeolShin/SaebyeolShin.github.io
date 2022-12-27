@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I'm Saebyeol, from South Korea 🇰🇷.
 I am undergraduate student majoring in Data Science and Computer Science & Engineering at [Sungkyunkwan University](https://www.skku.edu/eng/).
-Previously I interned at [DASH Lab](https://dash-lab.github.io/) advised by Prof. Simon S. Woo, and at SK Telecom working with SKT SUPERNOVA team in 2022.
+Previously I interned at [DASH Lab](https://dash-lab.github.io/) advised by Prof. Simon S. Woo, and SK Telecom working with SKT SUPERNOVA team in 2022
 
 Feel free to reach out if you'd like to chat or collaborate with me.
 
@@ -17,13 +17,13 @@ Feel free to reach out if you'd like to chat or collaborate with me.
 
 # Publications
 
-\* indicates Equal Contributions
+\* indicates Equal Contribution
 
 ## 2023
 
 - **A-ColViT: Real-time Interactive Colorization by Adaptive Vision Transformer**
-  <br/>Gwanghan Lee\*, **Saebyeol Shin\***, Donggeun Ko\*, Jiyeon Jung, Simon S. Woo
-  <br/>International Workshop on Practical Deep Learning in the Wild at AAAI (AAAI), 2023
+  <br/>Gwanghan Lee\*, **Saebyeol Shin\***, Donggeun Ko, Jiyeon Jung, Simon S. Woo
+  <br/>International Workshop on Practical Deep Learning in the Wild at AAAI, 2023
   <br/>[paper](https://practical-dl.github.io/)
 
 ## 2022
@@ -40,7 +40,7 @@ Feel free to reach out if you'd like to chat or collaborate with me.
 
 - **Deepfake Detection for Fake Images with Facemasks**
   <br/>Sangjun Lee\*, Donggeun Ko\*, Jinyong Park, **Saebyeol Shin**, Donghee Hong, Simon S. Woo
-  <br/>Workshop on the security implications of Deepfakes and Cheapfakes (WDC), 2022
+  <br/>ACM Workshop on the security implications of Deepfakes and Cheapfakes (WDC), 2022
   <br/>[paper](https://dl.acm.org/doi/abs/10.1145/3494109.3527189)
 
 ## 2021
