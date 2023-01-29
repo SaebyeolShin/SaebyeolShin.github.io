@@ -7,10 +7,10 @@
 
 # Site Settings
 locale: "en-US"
-title: "Saebyeol Shin"
+title: "Gwanghan Lee"
 title_separator: "-"
-name: &name "Saebyeol Shin"
-description: &description "Undergraduate Student at SKKU"
+name: &name "Gwanghan Lee"
+description: &description "ML/DL 문제해결에 관심이 많은 대학원생입니다."
 url: https://saebyeolshin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "academicpages/academicpages.github.io"
@@ -78,14 +78,14 @@ analytics:
 
 # Site Author
 author:
-  name: "Saebyeol Shin"
+  name: "Gwanghan Lee"
   avatar: "profile.png"
   bio: "Undergraduate Student at SKKU"
   location: "Seoul, South Korea"
   employer:
   pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: "https://scholar.google.com/citations?user=g9PjLdUAAAAJ&hl=en"
-  email: "toquf930@g.skku.edu"
+  googlescholar: "https://scholar.google.com/citations?user=H0AATF8AAAAJ&hl=en"
+  email: "icanlgh0016@gmail.com"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
@@ -94,7 +94,7 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "SaebyeolShin"
+  github: "lee-gwang"
   google_plus:
   keybase:
   instagram:

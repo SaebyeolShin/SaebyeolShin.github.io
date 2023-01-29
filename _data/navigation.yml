@@ -16,8 +16,10 @@ main:
   #   url: /year-archive/
 
   - title: "CV"
-    url: /files/cv.pdf
+    url: /files/gwang_cv.pdf
     # url: /cv/
 
+  - title: "Competition"
+    url: /competition/
   # - title: "Guide"
   #   url: /markdown/
