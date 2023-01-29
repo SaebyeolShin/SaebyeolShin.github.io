@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: Awards and Honor
 permalink: /competition/
 author_profile: true
 ---
