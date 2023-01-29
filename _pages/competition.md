@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "competition"
 permalink: /competition/
 author_profile: true
 ---
-# International
-## 2022
+
+## International<br\>2022
 - **Gold medal (9th/828), Sound Classification**, BirdCLEF 2022, Kaggle
 - **Silver medal (21st/1565), Image Segmentation**, UW‑Madison GI Tract Image Segmentation, Kaggle
 
@@ -20,7 +19,6 @@ author_profile: true
 - **Bronze medal (113th/1538), Object Detection**, Understanding Clouds from Satellite Images, Kaggle
 
 
-# Domestic
 ## 2022
 - **2nd Place, Image Colorization**, SKT AI Fellowship, SKT
 
