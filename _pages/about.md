@@ -11,7 +11,7 @@ Hi, I'm Gwanghan Lee, from South Korea 🇰🇷.
 I received B.S/M.S in Organic and Nano System Engineering at [Konkuk University](http://www.konkuk.ac.kr/do/Eng/Index.do), and M.S in Artificial Intelligence at [Sungkyunkwan University](https://www.skku.edu/eng/).
 Previously I worked at [DASH Lab](https://dash-lab.github.io/) advised by Prof. Simon S. Woo, and SK Telecom working with SKT SUPERNOVA team in 2022. 
 
-My research interest broadly lies on Model Compression, Computer Vision, Deep Learning, and Machine Learning. 
+My research interest broadly lies on Model Compression, Computer Vision, Deep Learning, and Machine Learning.
 
 Feel free to reach out if you'd like to chat or collaborate with me.
 
