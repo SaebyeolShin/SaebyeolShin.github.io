@@ -22,7 +22,7 @@ author_profile: true
 
 --- 
 
-## International
+## Domestic
 ## 2022
 - **2nd Place, Image Colorization**, SKT AI Fellowship, SKT
 
