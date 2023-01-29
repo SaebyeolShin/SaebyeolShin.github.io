@@ -14,12 +14,13 @@ main:
 
   # - title: "Blog Posts"
   #   url: /year-archive/
+  
+  - title: "Competition"
+    url: /competition/
 
   - title: "CV"
     url: /files/gwang_cv.pdf
     # url: /cv/
 
-  - title: "Competition"
-    url: /competition/
   # - title: "Guide"
   #   url: /markdown/
