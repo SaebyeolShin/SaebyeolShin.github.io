@@ -39,7 +39,7 @@ My research interest broadly lies on Model Compression, Computer Vision, Deep Le
   <br/>[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113433)
 
 - **Development of fasion recommendation system using collaborative deep learning**
-  <br/>**Gwanghan Lee\***, **Sungmin Kim\***, **Changkyu Park\***
+  <br/>**Gwanghan Lee\***, Sungmin Kim\*, Changkyu Park\*
   <br/>International Journal of Clothing Science and Technology (IF=1.15), 2022
   <br/>[journal](https://www.emerald.com/insight/content/doi/10.1108/IJCST-11-2021-0172/full/html)
 
