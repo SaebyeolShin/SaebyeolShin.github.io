@@ -12,7 +12,6 @@ I am undergraduate student majoring in Data Science and Computer Science & Engin
 Previously I interned at [DASH Lab](https://dash-lab.github.io/) advised by Prof. Simon S. Woo, and SK Telecom working with SKT SUPERNOVA team in 2022
 
 Feel free to reach out if you'd like to chat or collaborate with me.
-
 ---
 
 # Publications
@@ -42,6 +41,7 @@ Feel free to reach out if you'd like to chat or collaborate with me.
   <br/>Sangjun Lee\*, Donggeun Ko\*, Jinyong Park, **Saebyeol Shin**, Donghee Hong, Simon S. Woo
   <br/>ACM Workshop on the security implications of Deepfakes and Cheapfakes (WDC), 2022
   <br/>[paper](https://dl.acm.org/doi/abs/10.1145/3494109.3527189)
+
 
 ## 2021
 
