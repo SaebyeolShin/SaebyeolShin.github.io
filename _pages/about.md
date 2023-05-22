@@ -24,7 +24,7 @@ Feel free to reach out if you'd like to chat or collaborate with me.
 - **A-ColViT: Real-time Interactive Colorization by Adaptive Vision Transformer**
   <br/>Gwanghan Lee\*, **Saebyeol Shin\***, Donggeun Ko, Jiyeon Jung, Simon S. Woo
   <br/>International Workshop on Practical Deep Learning in the Wild at AAAI, 2023
-  <br/>[paper](https://practical-dl.github.io/)
+  <br/>[paper](https://practical-dl.github.io/2023/long_paper/27/CameraReady/27.pdf)
 
 ## 2022
 
