@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I'm Saebyeol, from South Korea 🇰🇷.
 I am undergraduate student majoring in Data Science and Computer Science & Engineering at [Sungkyunkwan University](https://www.skku.edu/eng/).
-Previously I interned at [DASH Lab](https://dash-lab.github.io/) advised by Prof. Simon S. Woo, and SK Telecom working with SKT SUPERNOVA team in 2022.
+Previously I interned at [DASH Lab](https://dash-lab.github.io/) advised by Prof. Simon S. Woo, and SK Telecom working with [SKT SUPERNOVA](https://openapi.sk.com/products/detail?svcSeq=23&menuSeq=219) team in 2022.
 
 Feel free to reach out if you'd like to chat or collaborate with me.
 
