@@ -43,6 +43,42 @@ Feel free to reach out if you'd like to chat or collaborate with me.
   <br/>ACM Workshop on the security implications of Deepfakes and Cheapfakes (WDC), 2022
   <br/>[paper](https://dl.acm.org/doi/abs/10.1145/3494109.3527189)
 
+<table width="100%" align="center" border="0" cellpadding="20"><tbody>
+  <tr>
+    <td style="padding:20px;width:25%;vertical-align:middle"><img style="width:100%;max-width:200px" src="images/DPPNet.png"></td>
+    <td valign="center">
+      <papertitle>Accelerating CNN via Dynamic Pattern‑based Pruning Network</papertitle>
+    <br>
+      Gwanghan Lee,
+      <strong>Saebyeol Shin</strong>,
+      Simon S. Woo
+    <br>
+      ACM International Conference on Information & Knowledge Management (CIKM), 2022
+    <br>
+      <a href="https://dl.acm.org/doi/10.1145/3511808.3557225" target="_blank">Paper</a> \|
+      <a href="https://github.com/SaebyeolShin/DPPNet" target="_blank">Code</a> \|
+      <a href="https://sites.google.com/g.skku.edu/dppnet/" target="_blank">Project page</a> 
+    </td>
+  </tr>
+
+  <p></p><p></p>
+
+  <tr>
+    <td style="padding:20px;width:25%;vertical-align:middle"><img style="width:100%;max-width:200px" src="images/EMGNet.png"></td>
+    <td valign="center">
+    <papertitle>Efficient Multi-Scale Feature Generation Network</papertitle>
+    <br>
+      Gwanghan Lee,
+      <strong>Saebyeol Shin</strong>,
+      Simon S. Woo
+    <br>
+      Korea Computer Congress (KCC), 2022</em>, 2021
+    <br>
+    <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113433" target="_blank">Paper</a>
+  <p></p>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 2021
 
