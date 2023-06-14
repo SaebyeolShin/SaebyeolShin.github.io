@@ -55,8 +55,8 @@ Feel free to reach out if you'd like to chat or collaborate with me.
     <br>
       ACM International Conference on Information & Knowledge Management (CIKM), 2022
     <br>
-      <a href="https://dl.acm.org/doi/10.1145/3511808.3557225" target="_blank">Paper</a> \|
-      <a href="https://github.com/SaebyeolShin/DPPNet" target="_blank">Code</a> \|
+      <a href="https://dl.acm.org/doi/10.1145/3511808.3557225" target="_blank">Paper</a> /
+      <a href="https://github.com/SaebyeolShin/DPPNet" target="_blank">Code</a> /
       <a href="https://sites.google.com/g.skku.edu/dppnet/" target="_blank">Project page</a> 
     </td>
   </tr>
