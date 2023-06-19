@@ -24,14 +24,14 @@ Feel free to reach out if you'd like to chat or collaborate with me.
 - **A-ColViT: Real-time Interactive Colorization by Adaptive Vision Transformer**
   <br/>Gwanghan Lee\*, **Saebyeol Shin\***, Donggeun Ko, Jiyeon Jung, Simon S. Woo
   <br/>International Workshop on Practical Deep Learning in the Wild at AAAI, 2023
-  <br/>[paper](https://practical-dl.github.io/2023/long_paper/27/CameraReady/27.pdf)
+  <br/>[paper](https://practical-dl.github.io/2023/long_paper/27/CameraReady/27.pdf) \| [code](https://github.com/lee-gwang/A-ColViT)
 
 ## 2022
 
 - **Accelerating CNN via Dynamic Pattern‑based Pruning Network**
   <br/>Gwanghan Lee, **Saebyeol Shin**, Simon S. Woo
   <br/>ACM International Conference on Information & Knowledge Management (CIKM), 2022
-  <br/>[paper](https://dl.acm.org/doi/10.1145/3511808.3557225) \| [code](https://github.com/SaebyeolShin/DPPNet) \| [web](https://sites.google.com/g.skku.edu/dppnet/)
+  <br/>[paper](https://dl.acm.org/doi/10.1145/3511808.3557225) \| [code](https://github.com/lee-gwang/DPPNet) \| [web](https://sites.google.com/g.skku.edu/dppnet/)
 
 - **Efficient Multi-Scale Feature Generation Network**
   <br/>Gwanghan Lee, **Saebyeol Shin**, Simon S. Woo
