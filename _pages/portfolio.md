@@ -18,7 +18,6 @@ Thank you for visiting! Here, you'll find a collection of media and links relate
 - **CodeCraft, a programming education platform utilizing ChatGPT**, [Code](https://github.com/skkuse/2023spring_41class_team9)
 - **Restoring grayscale images of Korean War Veterans using AI Technology** @ [MPVA](https://www.mpva.go.kr/english/index.do)
 <br/> Media: [1](https://www.mpva.go.kr/mpva/selectBbsNttView.do?key=93&bbsNo=25&nttNo=246933), [2](https://news.nate.com/view/20230214n28318?mid=n0100), [3](https://m.dhnews.co.kr/news/view/1065597831777610), [4](https://news.unn.net/news/articleView.html?idxno=541999), [5](http://www.cfnews.kr/coding/news.aspx/1/1/70967), [6](https://www.onews.tv/news/articleView.html?idxno=154377), [7](https://www.joongang.co.kr/article/25140582#home), [8](http://paxnews.co.kr/news/view.php?idx=32984), [9](https://www.aitimes.kr/news/articleView.html?idxno=27349), [10](https://www.chosun.com/politics/diplomacy-defense/2023/02/13/YVBJ74P4JVALJAY3KGIIQF5ROY/)
-
 - **Solving Mathematical Problems using NLP Technology** @ IITP, [Code](https://github.com/DASH-Lab/KMWPS)
 - **Mobile App Programming** (Wordle application, The Maze Runner, Harry Potter Shooter game), [Code](https://github.com/SaebyeolShin/Android_app)
 
