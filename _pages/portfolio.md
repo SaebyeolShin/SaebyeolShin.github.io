@@ -20,7 +20,7 @@ Thank you for visiting! Here, you'll find a collection of media and links relate
 
 ## Awards
 - 2nd Place, (Grand Prize), Co-Data Station Datathon, President Award of AI Convergence and Open Sharing System, [Media](https://www.skku.edu/skku/campus/skk_comm/popup_news_en.do?mode=view&articleNo=107465)
-- 4th Place (top 1.5%), Natural Language-based Climate Technology Classification AI Competition, [DACON](https://dacon.io/en/competitions/official/235744/overview/description) | [Code](https://github.com/SaebyeolShin/Climate_technology_classification)
+- 4th Place (top 1.5%), Natural Language-based Climate Technology Classification AI Competition, [DACON](https://dacon.io/en/competitions/official/235744/overview/description), [Code](https://github.com/SaebyeolShin/Climate_technology_classification)
 - 1st Place (Grand Prize), Sungkyunkwan University Convergence Project
 <br/>SKKU Convergence Project for Smart University Life during COVID-19 | [Youtube](https://www.youtube.com/@group-pl5gf)
 
