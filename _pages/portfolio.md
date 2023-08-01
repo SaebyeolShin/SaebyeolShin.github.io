@@ -15,8 +15,11 @@ Thank you for visiting! Here, you'll find a collection of media and links relate
 <br/> Media: [1](https://www.sktuniv.com/c903fbb0-93c6-4d6c-8d96-026af7bca22b), [2](https://www.aitimes.kr/news/articleView.html?idxno=26552), [3](https://biz.chosun.com/it-science/ict/2022/11/18/25ZF4WKSK5HUPNYBRQHM6UKZNU/), [4](http://www.sbr.ai/news/articleView.html?idxno=4084), [5](http://journal.kobeta.com/skt-ai-%ED%8E%A0%EB%A1%9C%EC%9A%B0%EC%8B%ADskt-ai-fellowship-4%EA%B8%B0-%EC%84%B1%EA%B3%B5%EC%A0%81-%EB%A7%88%EB%AC%B4%EB%A6%AC/), [6](https://news.nate.com/view/20221118n05651)
 
 ## Project Experience
+- **CodeCraft, a programming education platform utilizing ChatGPT**, [Code](https://github.com/skkuse/2023spring_41class_team9)
 - **Restoring grayscale images of Korean War Veterans using AI Technology** @ [MPVA](https://www.mpva.go.kr/english/index.do)
 <br/> Media: [1](https://www.mpva.go.kr/mpva/selectBbsNttView.do?key=93&bbsNo=25&nttNo=246933), [2](https://news.nate.com/view/20230214n28318?mid=n0100), [3](https://m.dhnews.co.kr/news/view/1065597831777610), [4](https://news.unn.net/news/articleView.html?idxno=541999), [5](http://www.cfnews.kr/coding/news.aspx/1/1/70967), [6](https://www.onews.tv/news/articleView.html?idxno=154377), [7](https://www.joongang.co.kr/article/25140582#home), [8](http://paxnews.co.kr/news/view.php?idx=32984), [9](https://www.aitimes.kr/news/articleView.html?idxno=27349), [10](https://www.chosun.com/politics/diplomacy-defense/2023/02/13/YVBJ74P4JVALJAY3KGIIQF5ROY/)
+
+- **Solving Mathematical Problems using NLP Technology** @ IITP, [Code](https://github.com/DASH-Lab/KMWPS)
 
 ## Awards
 - 2nd Place, (Grand Prize), Co-Data Station Datathon, President Award of AI Convergence and Open Sharing System, [Media](https://www.skku.edu/skku/campus/skk_comm/popup_news_en.do?mode=view&articleNo=107465)
