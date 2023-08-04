@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-Thank you for visiting! Here, you'll find a collection of media and links related to my projects and activities. While this page showcases some highlights, it may not include all of my endeavors. For a comprehensive overview, I recommend checking out my CV linked above. Feel free to explore and learn more about my work and interests :)
+Thank you for visiting! Here, you'll find a collection of media and links related to my projects and activities. While this page showcases some highlights, it may not include all of my endeavors. For a comprehensive overview, I recommend checking out my [CV](https://saebyeolshin.github.io/files/cv.pdf). Feel free to explore and learn more about my work and interests :)
 
 ## Work Experience
 - **SK Telecom AI Fellowship** @ [SKT](https://www.sktelecom.com/index_en.html)
