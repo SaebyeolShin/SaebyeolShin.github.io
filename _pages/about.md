@@ -19,6 +19,11 @@ Feel free to reach out if you'd like to chat or collaborate with me.
 
 \* indicates Equal Contribution
 
+## 2024
+- **Real-Time User-guided Adaptive Colorization with Vision Transformer**
+<br/>Gwanghan Lee\*, **Saebyeol Shin\***, Taeyoung Na, Simon S. Woo
+<br/>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024
+
 ## 2023
 
 - **A-ColViT: Real-time Interactive Colorization by Adaptive Vision Transformer**
