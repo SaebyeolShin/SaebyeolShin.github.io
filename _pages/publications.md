@@ -5,8 +5,44 @@ permalink: /publications/
 author_profile: true
 ---
 
-|:-:|:------------------------------|
-| <img src="{{ site.url }}{{ site.baseurl }}/images/DPPNet.png" width="180px"> | **Accelerating CNN via Dynamic Pattern‑based Pruning Network**<br/>Gwanghan Lee, **Saebyeol Shin**, Simon S. Woo<br/>ACM International Conference on Information & Knowledge Management (CIKM), 2022<br/>[paper](../files/dpp_net.pdf) \| [code](https://github.com/SaebyeolShin/DPPNet) |
-| <img src="{{ site.url }}{{ site.baseurl }}/images/EMGNet.png" width="180px"> | **Efficient Multi-Scale Feature Generation Network**<br/>Gwanghan Lee, **Saebyeol Shin**, Simon S. Woo<br/>Korea Computer Congress (KCC), 2022<br/>[paper](../files/emg_net.pdf)|
-| <img src="{{ site.url }}{{ site.baseurl }}/images/mask.png" width="180px"> | **Deepfake Detection for Fake Images with Facemasks**<br/>Sangjun Lee∗, Donggeun Ko∗, Jinyong Park, **Saebyeol Shin**, Donghee Hong, Simon S. Woo<br/>Workshop on the security implications of Deepfakes and Cheapfakes (WDC), 2022<br/>[paper](https://dl.acm.org/doi/pdf/10.1145/3494109.3527189)|
-| <img src="{{ site.url }}{{ site.baseurl }}/images/vfp290k.png" width="180px"> | **VFP290K: A Large‑Scale Benchmark Dataset for Vision‑based Fallen Person Detection**<br/>Jaeju An∗, Jeongho Kim∗, Hanbeen Lee, Jinbeom Kim, Junhyung Kang, Minha Kim, **Saebyeol Shin**, Minha Kim, Donghee Hong, Simon S. Woo<br/>Neural Information Processing Systems (NeurIPS), 2021<br/>[paper](https://openreview.net/pdf?id=y2AbfIXgBK3) \| [code](https://github.com/DASH-Lab/VFP290K) \| [site](https://sites.google.com/view/dash-vfp300k/) |
+For an updated list of publications please refer to [my Google Scholar profile](https://scholar.google.com/citations?user=g9PjLdUAAAAJ&hl=en). \* denotes equal contribution
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+
+  {% for post in site.publications reversed%}
+  <tr>
+    <td style="border: none; padding:2.5%;width:25%;vertical-align:middle;max-width:100px;max-height:100px">
+      <img src="/{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="border: none; padding:2.5%;width:75%;vertical-align:middle">
+      <h3>{{post.title}}</h3>
+      {{post.authors}}
+      <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+      <br>
+        {% if post.paperurl %}
+          <a href="{{post.paperurl}}">paper</a> /
+        {% endif %}
+        {% if post.page %}
+          <a href="{{post.page}}">website</a> /
+        {% endif %}
+        {% if post.video %}
+          <a href="{{post.video}}">video</a> /
+        {% endif %}
+        {% if post.code %}
+          <a href="{{post.code}}">code</a> /
+        {% endif %}
+        {% if post.poster %}
+          <a href="{{post.poster}}">poster</a> /
+        {% endif %}
+        {% if post.slides %}
+          <a href="{{post.slides}}">slides</a> /
+        {% endif %}
+        {% if post.dataset %}
+          <a href="{{post.dataset}}">dataset</a> /
+        {% endif %}
+      <p></p>
+      {{ post.excerpt }}
+    </td>
+  </tr>
+  {% endfor %}
+</table>
