@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 For an updated list of publications please refer to [my Google Scholar profile](https://scholar.google.com/citations?user=g9PjLdUAAAAJ&hl=en). 
-
+<br>
 \* denotes equal contribution
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
