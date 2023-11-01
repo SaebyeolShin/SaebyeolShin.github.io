@@ -28,7 +28,7 @@ Feel free to reach out if you'd like to chat or collaborate with me.
 <br>  
 <span style="color: #52adc8;">[2022.Dec]</span>&nbsp;&nbsp;A-ColViT: Real-time Interactive Colorization by Adaptive Vision Transformer has been accepted at<strong><u> AAAI 2023</u></strong> International Workshop on Practical Deep Learning in the Wild with AAAI-23 Student Scholarship! 🥳
 <br>  
-<span style="color: #52adc8;">[2022.Nov]</span>&nbsp;&nbsp;Team SKetchbook won a Grand Prize at<strong><u>SKT AI Fellowship</u></strong>! 🥳
+<span style="color: #52adc8;">[2022.Nov]</span>&nbsp;&nbsp;Team SKetchbook won a Grand Prize at <strong><u>SKT AI Fellowship</u></strong>! 🥳
 <br>
 <span style="color: #52adc8;">[2022.Oct]</span>&nbsp;&nbsp;Will attend <strong><u>CIKM 2022</u></strong> in-person with SIGIR Student Travel Grants for CIKM 2022. Please reach out if you'll be there 🖐
 <br>
