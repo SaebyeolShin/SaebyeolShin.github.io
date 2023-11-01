@@ -15,46 +15,26 @@ Feel free to reach out if you'd like to chat or collaborate with me.
 
 ---
 
-# Publications
+<h3 style="font-size: 22px; font-family: Raleway, sans-serif;">News</h3>
 
-\* indicates Equal Contribution
-
-## 2024
-- **Real-Time User-guided Adaptive Colorization with Vision Transformer**
-<br/>Gwanghan Lee\*, **Saebyeol Shin\***, Taeyoung Na, Simon S. Woo
-<br/>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024
-
-## 2023
-
-- **A-ColViT: Real-time Interactive Colorization by Adaptive Vision Transformer**
-  <br/>Gwanghan Lee\*, **Saebyeol Shin\***, Donggeun Ko, Jiyeon Jung, Simon S. Woo
-  <br/>International Workshop on Practical Deep Learning in the Wild at AAAI, 2023
-  <br/>[paper](https://practical-dl.github.io/2023/long_paper/27/CameraReady/27.pdf) \| [code](https://github.com/lee-gwang/A-ColViT)
+<div style="height:200px;width:100%;margin-right:25px;margin-bottom:5px;display:inline-block;text-align:left;padding-left:10px;padding-top:10px;border:1px solid #ccc;overflow:auto;font:15px Merriweather, sans-serif;">
   
-- **Deepfake Detection using Effective Mask Attention**
-  <br/>**Saebyeol Shin**, Simon S. Woo
-  <br/>Korean Artificial Intelligence Association (KAIA), 2023
-
-## 2022
-
-- **Accelerating CNN via Dynamic Pattern‑based Pruning Network**
-  <br/>Gwanghan Lee, **Saebyeol Shin**, Simon S. Woo
-  <br/>ACM International Conference on Information & Knowledge Management (CIKM), 2022
-  <br/>[paper](https://dl.acm.org/doi/10.1145/3511808.3557225) \| [code](https://github.com/lee-gwang/DPPNet) \| [web](https://sites.google.com/g.skku.edu/dppnet/)
-
-- **Efficient Multi-Scale Feature Generation Network**
-  <br/>Gwanghan Lee, **Saebyeol Shin**, Simon S. Woo
-  <br/>Korea Computer Congress (KCC), 2022
-  <br/>[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113433)
-
-- **Deepfake Detection for Fake Images with Facemasks**
-  <br/>Sangjun Lee\*, Donggeun Ko\*, Jinyong Park, **Saebyeol Shin**, Donghee Hong, Simon S. Woo
-  <br/>ACM Workshop on the security implications of Deepfakes and Cheapfakes (WDC), 2022
-  <br/>[paper](https://dl.acm.org/doi/abs/10.1145/3494109.3527189)
-
-## 2021
-
-- **VFP290K: A Large‑Scale Benchmark Dataset for Vision‑based Fallen Person Detection**
-  <br/>Jaeju An\*, Jeongho Kim\*, Hanbeen Lee, Jinbeom Kim, Junhyung Kang, Minha Kim, **Saebyeol Shin**, Minha Kim, Donghee Hong, Simon S. Woo
-  <br/>Neural Information Processing Systems (NeurIPS), 2021
-  <br/>[paper](https://openreview.net/forum?id=y2AbfIXgBK3) \| [code](https://github.com/DASH-Lab/VFP290K) \| [web](https://sites.google.com/view/dash-vfp300k/)
+<small>
+<span style="color: #52adc8;">[2023.Oct]</span>&nbsp;&nbsp;Real-Time User-guided Adaptive Colorization with Vision Transformer has been accepted at <strong><u>WACV 2024</u></strong>! 🥳
+<br>  
+<span style="color: #52adc8;">[2023.Aug]</span>&nbsp;&nbsp;I graduated <strong><u>SKKU</u></strong> honored in Summa Cum Laude! 🥳
+<br>  
+<span style="color: #52adc8;">[2023.Jul]</span>&nbsp;&nbsp;I joined Visual Informatics Group (VITA) @ UT Austin to work with Prof.Atlas Wang, Ajay Jaiswal, Shiwei Liu.
+<br>  
+<span style="color: #52adc8;">[2022.Dec]</span>&nbsp;&nbsp;A-ColViT: Real-time Interactive Colorization by Adaptive Vision Transformer has been accepted at<strong><u> AAAI 2023</u></strong> International Workshop on Practical Deep Learning in the Wild with AAAI-23 Student Scholarship! 🥳
+<br>  
+<span style="color: #52adc8;">[2022.Nov]</span>&nbsp;&nbsp;Team SKetchbook won a Grand Prize at<strong><u>SKT AI Fellowship</u></strong>! 🥳
+<br>
+<span style="color: #52adc8;">[2022.Oct]</span>&nbsp;&nbsp;Will attend <strong><u>CIKM 2022</u></strong> in-person with SIGIR Student Travel Grants for CIKM 2022. Please reach out if you'll be there 🖐
+<br>
+<span style="color: #52adc8;">[2022.Aug]</span>&nbsp;&nbsp;Accelerating CNN via Dynamic Pattern‑based Pruning Network has been accepted for presentation at the <strong><u>CIKM 2022</u></strong>! 🥳
+<br>
+<span style="color: #52adc8;">[2021.Oct]</span>&nbsp;&nbsp;VFP290K: A Large‑Scale Benchmark Dataset for Vision‑based Fallen Person Detection has been accepted for presentation at the <strong><u>NeurIPS 2021</u></strong> Benchmark and Dataset Track! 🌟
+</small>
+  
+</div>
