@@ -22,14 +22,14 @@ For an updated list of publications please refer to [my Google Scholar profile](
       <br>
       <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
       <br>
-        {% if post.paperurl %}
-          <a href="{{post.paperurl}}">paper</a>
+        {% if post.paper %}
+          <a href="{{post.paper}}">paper</a>
         {% endif %}
         {% if post.code %}
           / <a href="{{post.code}}">code</a>
         {% endif %}
-        {% if post.page %}
-          / <a href="{{post.page}}">website</a>
+        {% if post.web %}
+          / <a href="{{post.web}}">website</a>
         {% endif %}
         {% if post.video %}
           / <a href="{{post.video}}">video</a>
