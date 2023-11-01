@@ -22,7 +22,7 @@ Feel free to reach out if you'd like to chat or collaborate with me.
 <small>
 <span style="color: #52adc8;">[2023.Oct]</span>&nbsp;&nbsp;Real-Time User-guided Adaptive Colorization with Vision Transformer has been accepted at <strong><u>WACV 2024</u></strong>! 🥳
 <br>  
-<span style="color: #52adc8;">[2023.Aug]</span>&nbsp;&nbsp;I graduated <strong><u>SKKU</u></strong> honored in Summa Cum Laude! 🥳
+<span style="color: #52adc8;">[2023.Aug]</span>&nbsp;&nbsp;I graduated <strong><u>SKKU</u></strong> honored in <strong><u>Summa Cum Laude</u></strong>! 🥳
 <br>  
 <span style="color: #52adc8;">[2023.Jul]</span>&nbsp;&nbsp;I joined Visual Informatics Group (VITA) @ UT Austin to work with Prof.Atlas Wang, Ajay Jaiswal, Shiwei Liu.
 <br>  
