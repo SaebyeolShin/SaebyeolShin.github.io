@@ -15,6 +15,47 @@ Feel free to reach out if you'd like to chat or collaborate with me.
 
 ---
 
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+  
+          <tr>
+            <td style="padding:2%;width:25%;vertical-align:middle">
+              <img src='images/firefly.jpg' width="100%" height="auto">
+            </td>
+            <td style="padding:2%;width:75%;vertical-align:middle">
+              <papertitle><a href="https://www.adobe.com/sensei/generative-ai/firefly.html">Firefly and Generative Fill</a></papertitle> is a text-to-image generative model that is trained on ethically sourced data, and is significantly faster than competitors in generating high-resolution images. I developed the upscaling pipeline of Firefly.
+              <p></p>
+            </td>
+          </tr> 
+
+            <tr>
+              <td style="padding:2%;width:25%;vertical-align:middle">
+                <img src='images/landscape-mixer.jpg' width="100%" height="auto">
+              </td>
+              <td style="padding:2%;width:75%;vertical-align:middle">
+                <papertitle><a href="https://www.youtube.com/watch?v=gsE3cLg8imI">Photoshop Landscape Mixer</a></papertitle> transforms landscape images in various ways.
+                <br>Contributes to Adobe’s nomination as <a href="https://blog.adobe.com/en/publish/2022/03/08/adobe-named-one-of-worlds-most-innovative-companies-in-ai-by-fast-company">World’s 4th Most Innovative AI company of 2022</a>.
+                <br>Based on <a href="#SwapAuto">Swapping Autoencoder</a>.
+                <p></p>
+              </td>
+            </tr> 
+
+            <tr>
+                <td style="padding:2%;width:25%;vertical-align:middle">
+                  <img src='images/spade_thumbnail.jpg' width="100%" height="auto">
+                </td>
+                <td style="padding:2%;width:75%;vertical-align:middle">
+                  <papertitle><a href="https://blogs.nvidia.com/blog/2019/03/18/gaugan-photorealistic-landscapes-nvidia-research/">GauGAN</a></papertitle> turns sketches into photos.
+                  <br><a href="https://www.popsci.com/story/technology/best-of-whats-new-2019/">100 Greatest Innovations of 2019 by Popular Science</a>.
+                  <br>Based on <a href="#SPADE">Semantic Image Synthesis with Spatially-Adaptive Normalization</a>.
+                  <p></p>
+                </td>
+              </tr> 
+
+        </tbody></table>
+
+
+
 # Publications
 
 \* indicates Equal Contribution
