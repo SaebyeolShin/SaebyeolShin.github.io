@@ -32,9 +32,9 @@ Feel free to reach out if you'd like to chat or collaborate with me.
 <br>
 <span style="color: #52adc8;">[2022.Oct]</span>&nbsp;&nbsp;Will attend <strong><u>CIKM 2022</u></strong> in-person with SIGIR Student Travel Grants for CIKM 2022. Please reach out if you'll be there 🖐
 <br>
-<span style="color: #52adc8;">[2022.Jun]</span>&nbsp;&nbsp;I joined the <strong><u>SKT AI Fellowship</u></strong> to work on the project "Developing deep learning model for colorizing old monochrome images." I am glad to collaborate with Gwanghan Lee and Donggeun Ko as part of Team "SKeTchbook", mentored by Jiyeon Jung. 🌟
-<br>
 <span style="color: #52adc8;">[2022.Aug]</span>&nbsp;&nbsp;Accelerating CNN via Dynamic Pattern‑based Pruning Network has been accepted for presentation at the <strong><u>CIKM 2022</u></strong>! 🥳
+<br>
+<span style="color: #52adc8;">[2022.Jun]</span>&nbsp;&nbsp;I joined the <strong><u>SKT AI Fellowship</u></strong> to work on the project "Developing deep learning model for colorizing old monochrome images." I am glad to collaborate with Gwanghan Lee and Donggeun Ko as part of Team "SKeTchbook", mentored by Jiyeon Jung. 🌟
 <br>
 <span style="color: #52adc8;">[2021.Oct]</span>&nbsp;&nbsp;VFP290K: A Large‑Scale Benchmark Dataset for Vision‑based Fallen Person Detection has been accepted for presentation at the <strong><u>NeurIPS 2021</u></strong> Benchmark and Dataset Track! 🥳
 </small>
