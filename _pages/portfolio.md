@@ -8,11 +8,9 @@ author_profile: true
 Thank you for visiting! Here, you'll find a collection of media and links related to my projects and activities. While this page showcases some highlights, it may not include all of my endeavors. For a comprehensive overview, I recommend checking out my [CV](https://saebyeolshin.github.io/files/cv.pdf). Feel free to explore and learn more about my work and interests :)
 
 ## Work Experience
-- **SK Telecom AI Fellowship** @ [SKT](https://www.sktelecom.com/index_en.html)
-<br/>2nd Place (Grand Prize), [SKT AI Fellowship](https://www.sktuniv.com/74fb66b5-c7a7-4da2-82b8-3d0519e18e6d)
+- **[SK Telecom AI Fellowship](https://www.sktuniv.com/74fb66b5-c7a7-4da2-82b8-3d0519e18e6d)** @ [SKT](https://www.sktelecom.com/index_en.html)
 <br/>[Code](https://github.com/lee-gwang/Image_Colorization_For_Historical_Image) | [Demo UI](https://github.com/SaebyeolShin/Colorization_UI) | [Patent](https://www.sktuniv.com/e424f140-5c9b-4107-9338-66aee18de692)
 <br/>[Research Proposal](https://devocean.sk.com/blog/techBoardDetail.do?ID=164064&boardType=writer) | [Research Progress](https://devocean.sk.com/blog/techBoardDetail.do?ID=164235&boardType=writer) | [Follow-up study](https://devocean.sk.com/blog/techBoardDetail.do?page=&query=&ID=164521&boardType=writer&searchData=icanlgh0016&subIndex=&idList=&pnwriterID=icanlgh0016)
-<br/> Media: [1](https://www.sktuniv.com/c903fbb0-93c6-4d6c-8d96-026af7bca22b), [2](https://www.aitimes.kr/news/articleView.html?idxno=26552), [3](https://biz.chosun.com/it-science/ict/2022/11/18/25ZF4WKSK5HUPNYBRQHM6UKZNU/), [4](http://www.sbr.ai/news/articleView.html?idxno=4084), [5](http://journal.kobeta.com/skt-ai-%ED%8E%A0%EB%A1%9C%EC%9A%B0%EC%8B%ADskt-ai-fellowship-4%EA%B8%B0-%EC%84%B1%EA%B3%B5%EC%A0%81-%EB%A7%88%EB%AC%B4%EB%A6%AC/), [6](https://news.nate.com/view/20221118n05651)
 
 ## Project Experience
 - **Restoring grayscale images of Korean War Veterans using AI Technology** @ [MPVA](https://www.mpva.go.kr/english/index.do)
@@ -24,6 +22,7 @@ Thank you for visiting! Here, you'll find a collection of media and links relate
 ## Awards
 - 2nd Place, (Grand Prize), Co-Data Station Datathon, President Award of AI Convergence and Open Sharing System, [Media](https://www.skku.edu/skku/campus/skk_comm/popup_news_en.do?mode=view&articleNo=107465)
 - 2nd Place, WRTN Prompthon (“Prompt”+“Hackathon”), WRTN Technologies Inc. [AI Tool](https://wrtn.ai/store/details/648041c16ae3e910acb9e744)
+- 2nd Place (Grand Prize), SKT AI Fellowship, Media: [1](https://www.sktuniv.com/c903fbb0-93c6-4d6c-8d96-026af7bca22b), [2](https://www.aitimes.kr/news/articleView.html?idxno=26552), [3](https://biz.chosun.com/it-science/ict/2022/11/18/25ZF4WKSK5HUPNYBRQHM6UKZNU/), [4](http://www.sbr.ai/news/articleView.html?idxno=4084), [5](http://journal.kobeta.com/skt-ai-%ED%8E%A0%EB%A1%9C%EC%9A%B0%EC%8B%ADskt-ai-fellowship-4%EA%B8%B0-%EC%84%B1%EA%B3%B5%EC%A0%81-%EB%A7%88%EB%AC%B4%EB%A6%AC/), [6](https://news.nate.com/view/20221118n05651)
 - 4th Place (top 1.5%), Natural Language-based Climate Technology Classification AI Competition, [DACON](https://dacon.io/en/competitions/official/235744/overview/description), [Code](https://github.com/SaebyeolShin/Climate_technology_classification)
 - 1st Place (Grand Prize), SKKU Convergence Project for Smart University Life during COVID-19, [Youtube1](https://www.youtube.com/@group-pl5gf), [Youtube2](https://www.youtube.com/watch?v=f7N8iQjvlkM)
 
