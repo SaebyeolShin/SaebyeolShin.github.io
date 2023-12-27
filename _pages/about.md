@@ -17,7 +17,7 @@ Feel free to reach out if you'd like to chat or collaborate with me.
 
 <h3 style="font-size: 22px; font-family: Raleway, sans-serif;">News</h3>
 
-<div style="height:200px;width:100%;margin-right:25px;margin-bottom:5px;display:inline-block;text-align:left;padding-left:10px;padding-top:10px;border:1px solid #ccc;overflow:auto;font:15px Merriweather, sans-serif;">
+<div style="height:250px;width:100%;margin-right:25px;margin-bottom:5px;display:inline-block;text-align:left;padding-left:10px;padding-top:10px;border:1px solid #ccc;overflow:auto;font:15px Merriweather, sans-serif;">
   
 <small>
 <span style="color: #52adc8;">[2023.Oct]</span>&nbsp;&nbsp;"Real-Time User-guided Adaptive Colorization with Vision Transformer" has been accepted at <strong><u>WACV 2024</u></strong>! 🥳
