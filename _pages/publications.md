@@ -21,25 +21,25 @@ author_profile: true
       <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
       <br>
         {% if post.paper %}
-          <a href="{{post.paper}}"><kbd>paper</kbd></a>
+          <a href="{{post.paper}}">paper</a>
         {% endif %}
         {% if post.code %}
-          / <a href="{{post.code}}"><kbd>code</kbd></a>
+          / <a href="{{post.code}}">code</a>
         {% endif %}
         {% if post.web %}
-          / <a href="{{post.web}}"><kbd>website</kbd></a>
+          / <a href="{{post.web}}">website</a>
         {% endif %}
         {% if post.video %}
-          / <a href="{{post.video}}"><kbd>video</kbd></a>
+          / <a href="{{post.video}}">video</a>
         {% endif %}
         {% if post.poster %}
-          / <a href="{{post.poster}}"><kbd>poster</kbd></a>
+          / <a href="{{post.poster}}">poster</a>
         {% endif %}
         {% if post.slides %}
-          / <a href="{{post.slides}}"><kbd>slides</kbd></a>
+          / <a href="{{post.slides}}">slides</a>
         {% endif %}
         {% if post.dataset %}
-          / <a href="{{post.dataset}}"><kbd>dataset</kbd></a>
+          / <a href="{{post.dataset}}">dataset</a>
         {% endif %}
       <p></p>
       {{ post.excerpt }}
