@@ -26,11 +26,11 @@ Feel free to reach out if you'd like to chat or collaborate with me.
 <br>  
 <span style="color: #52adc8;">[2023.Jul]</span>&nbsp;&nbsp;I joined <strong><u>Visual Informatics Group (VITA) @ UT Austin</u></strong> to work with Prof. Atlas Wang, Ajay Jaiswal, Shiwei Liu. 🌟
 <br>  
-<span style="color: #52adc8;">[2022.Dec]</span>&nbsp;&nbsp;A-ColViT: Real-time Interactive Colorization by Adaptive Vision Transformer has been accepted at<strong><u> AAAI 2023</u></strong> International Workshop on Practical Deep Learning in the Wild with AAAI-23 Student Scholarship! 🥳
+<span style="color: #52adc8;">[2022.Dec]</span>&nbsp;&nbsp;A-ColViT: Real-time Interactive Colorization by Adaptive Vision Transformer has been accepted at<strong><u> AAAI 2023</u></strong> International Workshop on Practical Deep Learning in the Wild with <strong><u>AAAI-23 Student Scholarship</u></strong>! 🥳
 <br>  
 <span style="color: #52adc8;">[2022.Nov]</span>&nbsp;&nbsp;Team SKeTchbook won a <strong><u>Grand Prize</u></strong> at <strong><u>SKT AI Fellowship</u></strong>! 🥳
 <br>
-<span style="color: #52adc8;">[2022.Oct]</span>&nbsp;&nbsp;Will attend <strong><u>CIKM 2022</u></strong> in-person with SIGIR Student Travel Grants for CIKM 2022. Please reach out if you'll be there 🖐
+<span style="color: #52adc8;">[2022.Oct]</span>&nbsp;&nbsp;Will attend <strong><u>CIKM 2022</u></strong> in-person with <strong><u>SIGIR Student Travel Grants for CIKM 2022</u></strong>. Please reach out if you'll be there 🖐
 <br>
 <span style="color: #52adc8;">[2022.Aug]</span>&nbsp;&nbsp;Accelerating CNN via Dynamic Pattern‑based Pruning Network has been accepted for presentation at the <strong><u>CIKM 2022</u></strong>! 🥳
 <br>
