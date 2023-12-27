@@ -24,10 +24,10 @@ author_profile: true
           <a href="{{post.paper}}" style="background-color: white; color: #008CBA; border: 2px solid #008CBA; padding: 2px 10px; text-align: center; text-decoration: none; display: inline-block; margin-top:5px; border-radius: 5px;">paper</a>
         {% endif %}
         {% if post.code %}
-          <a href="{{post.code}}" style="background-color: white; color: #008CBA; border: 2px solid #008CBA; padding: 2px 10px; text-align: center; text-decoration: none; display: inline-block; margin-left: 10px; margin-top:5px; border-radius: 5px;">code</a>
+          <a href="{{post.code}}" style="background-color: white; color: #008CBA; border: 2px solid #008CBA; padding: 2px 10px; text-align: center; text-decoration: none; display: inline-block; margin-left: 1px; margin-top:5px; border-radius: 5px;">code</a>
         {% endif %}
         {% if post.web %}
-          <a href="{{post.web}}" style="background-color: white; color: #008CBA; border: 2px solid #008CBA; padding: 2px 10px; text-align: center; text-decoration: none; display: inline-block; margin-left: 10px; margin-top:5px; border-radius: 5px;">website</a>
+          <a href="{{post.web}}" style="background-color: white; color: #008CBA; border: 2px solid #008CBA; padding: 2px 10px; text-align: center; text-decoration: none; display: inline-block; margin-left: 1px; margin-top:5px; border-radius: 5px;">website</a>
         {% endif %}
         {% if post.video %}
           <a href="{{post.video}}">video</a>
