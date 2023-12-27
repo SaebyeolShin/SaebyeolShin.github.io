@@ -24,13 +24,13 @@ author_profile: true
           <a href="{{post.paper}}" style="background-color: #008CBA; color: white; margin:4px 8px ;padding: 4px 12px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">paper</a>
         {% endif %}
         {% if post.code %}
-          / <a href="{{post.paper}}" style="background-color: #008CBA; color: white; margin:4px 8px ;padding: 4px 12px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">code</a>
+          <a href="{{post.paper}}" style="background-color: #008CBA; color: white; margin:4px 8px ;padding: 4px 12px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">code</a>
         {% endif %}
         {% if post.web %}
-          / <a href="{{post.paper}}" style="background-color: #008CBA; color: white; margin:4px 8px ;padding: 4px 12px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">website</a>
+          <a href="{{post.paper}}" style="background-color: #008CBA; color: white; margin:4px 8px ;padding: 4px 12px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">website</a>
         {% endif %}
         {% if post.video %}
-          / <a href="{{post.video}}">video</a>
+          <a href="{{post.video}}">video</a>
         {% endif %}
         {% if post.poster %}
           / <a href="{{post.poster}}">poster</a>
