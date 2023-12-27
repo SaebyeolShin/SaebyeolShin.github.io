@@ -21,10 +21,10 @@ author_profile: true
       <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
       <br>
         {% if post.paper %}
-          <a href="{{post.paper}}" style="background-color: #008CBA; color: white; padding: 4px 12px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Paper</a>
+          <a href="{{post.paper}}" style="background-color: #008CBA; color: white; margin:4px 8px ;padding: 4px 12px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">paper</a>
         {% endif %}
         {% if post.code %}
-          / <a href="{{post.code}}">code</a>
+          / <a href="{{post.paper}}" style="background-color: #008CBA; color: white; margin:4px 8px ;padding: 4px 12px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">code</a>
         {% endif %}
         {% if post.web %}
           / <a href="{{post.web}}">website</a>
