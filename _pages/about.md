@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 Hi, I'm Saebyeol, from South Korea 🇰🇷.
-I am a Research Intern at Visual Informatics Group ([VITA](https://vita-group.github.io/index.html)) @ University of Texas at Austin, advised by [Prof. Zhangyang "Atlas" Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/). 
+I am incoming Computer Science Ph.D. student at Cornell University, advised by Prof. [Kilian Q. Weinberger](https://www.cs.cornell.edu/~kilian/). 
 
-Previously I interned at Data-driven AI & Security HCI Lab ([DASH](https://dash-lab.github.io/)), advised by [Prof. Simon S. Woo](https://dash-lab.github.io/About/), and SK Telecom working with [SKT SUPERNOVA](https://www.koreaittimes.com/news/articleView.html?idxno=112407) team in 2022. 
+Previously I interned at Visual Informatics Group ([VITA](https://vita-group.github.io/index.html)) @ University of Texas at Austin, advised by [Prof. Zhangyang "Atlas" Wang](https://express.adobe.com/page/CAdrFMJ9QeI2y/). 
 I recieved B.S. in Data Science & B.S in Computer Science and Engineering at [Sungkyunkwan University](https://www.skku.edu/eng/).
 
 Feel free to reach out if you'd like to chat or collaborate with me.
