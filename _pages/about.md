@@ -21,7 +21,7 @@ Feel free to reach out if you'd like to chat or collaborate with me.
 <div style="height:250px;width:100%;margin-right:25px;margin-bottom:5px;display:inline-block;text-align:left;padding-left:10px;padding-top:10px;border:1px solid #ccc;overflow:auto;font:15px Merriweather, sans-serif;">
   
 <small>
-<span style="color: #52adc8;">[2024.Mar]</span>&nbsp;&nbsp;I will be starting a CS Ph.D. at Cornell University in Fall 2024! 🌟
+<span style="color: #52adc8;">[2024.Aug]</span>&nbsp;&nbsp;I will be starting a CS Ph.D. at Cornell University in Fall 2024! 🌟
 <br>
 <span style="color: #52adc8;">[2024.Mar]</span>&nbsp;&nbsp;"Unveiling the Intertwined Relationship Between Essential Sparsity and Robustness in Large Pre-trained Models" has been accepted at Data-centric Machine Learning Research (DMLR) Workshop at <strong><u>ICLR 2024</u></strong>! 🥳
 <br>
