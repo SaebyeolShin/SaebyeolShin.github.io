@@ -33,7 +33,7 @@ I recieved B.S. in Data Science & B.S in Computer Science and Engineering at [Su
 <p>
     <audio id="saebyeol_pronunciation" src="./files/saebyeol_pronunciation.mp3"></audio>
     My first name is pronounced "Sae-byeol" <a href="#" onclick="play('saebyeol_pronunciation');">[<i class="fa fa-fw fa-play"></i>]</a>
-    Feel free to reach out if you'd like to chat or collaborate with me.
+    <br>Feel free to reach out if you'd like to chat or collaborate with me.
 </p>
 
 ---
