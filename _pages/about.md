@@ -12,6 +12,28 @@ Hi, I'm Saebyeol, incoming Computer Science Ph.D. student at [Cornell University
 Previously I interned at Visual Informatics Group @ University of Texas at Austin (VITA), advised by [Prof. Zhangyang "Atlas" Wang](https://vita-group.github.io/index.html). 
 I recieved B.S. in Data Science & B.S in Computer Science and Engineering at [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/).
 
+<script type="text/javascript"> 
+  function play(audio_id){
+      var audio = document.getElementById(audio_id);
+      audio.play();
+  }
+  function showHide(shID) {
+      if (document.getElementById(shID)) {
+          if (document.getElementById(shID).style.display == 'none') {
+              document.getElementById(shID).style.display = 'inline';
+          }
+          else {
+              document.getElementById(shID).style.display = 'inline';
+              document.getElementById(shID).style.display = 'none';
+          }
+      }
+  }
+</script>
+
+<p>
+    <audio id="saebyeol_pronunciation" src="./images/saebyeol_pronunciation.mp3"></audio>
+    My first name is pronounced "Sae-byeol" <a href="#" onclick="play('saebyeol_pronunciation');">[<i class="fa fa-fw fa-play"></i>]</a>
+</p>
 Feel free to reach out if you'd like to chat or collaborate with me.
 
 ---
