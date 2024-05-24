@@ -10,7 +10,7 @@ redirect_from:
 Hi, I'm Saebyeol, incoming Computer Science Ph.D. student at [Cornell University](https://www.cornell.edu/), advised by [Prof. Kilian Q. Weinberger](https://www.cs.cornell.edu/~kilian/). 
 
 Previously I interned at Visual Informatics Group @ University of Texas at Austin (VITA), advised by [Prof. Zhangyang "Atlas" Wang](https://vita-group.github.io/index.html). 
-<br>I recieved B.S. in Data Science & B.S in Computer Science and Engineering at [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/).
+<br>I recieved B.S in Computer Science and Engineering & B.S. in Data Science at [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/).
 
 <script type="text/javascript"> 
   function play(audio_id){
@@ -43,7 +43,7 @@ Previously I interned at Visual Informatics Group @ University of Texas at Austi
 <div style="height:250px;width:100%;margin-right:25px;margin-bottom:5px;display:inline-block;text-align:left;padding-left:10px;padding-top:10px;border:1px solid #ccc;overflow:auto;font:15px Merriweather, sans-serif;">
   
 <small>
-<span style="color: #52adc8;">[2024.Aug]</span>&nbsp;&nbsp;I began pursuing my Ph.D. in Computer Science at Cornell University! 🌟
+<span style="color: #52adc8;">[2024.Aug]</span>&nbsp;&nbsp;I began pursuing my Ph.D. in Computer Science at <strong><u>Cornell University</u></strong>! 🌟
 <br>
 <span style="color: #52adc8;">[2024.Mar]</span>&nbsp;&nbsp;"Unveiling the Intertwined Relationship Between Essential Sparsity and Robustness in Large Pre-trained Models" has been accepted at Data-centric Machine Learning Research (DMLR) Workshop at <strong><u>ICLR 2024</u></strong>! 🥳
 <br>
