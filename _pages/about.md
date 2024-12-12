@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Saebyeol, incoming Computer Science Ph.D. student at [Cornell University](https://www.cornell.edu/), advised by [Prof. Kilian Q. Weinberger](https://www.cs.cornell.edu/~kilian/). 
+Hi, I'm Saebyeol, Computer Science Ph.D. student at [Cornell University](https://www.cs.cornell.edu/), advised by [Prof. Kilian Q. Weinberger](https://www.cs.cornell.edu/~kilian/).
 
-Previously I interned at Visual Informatics Group @ University of Texas at Austin (VITA), advised by [Prof. Zhangyang "Atlas" Wang](https://vita-group.github.io/index.html). 
+Previously I interned at Visual Informatics Group @ University of Texas at Austin (VITA), advised by [Prof. Zhangyang "Atlas" Wang](https://vita-group.github.io/index.html).
 <br>I recieved B.S in Computer Science and Engineering & B.S. in Data Science at [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/).
 
 <script type="text/javascript"> 
