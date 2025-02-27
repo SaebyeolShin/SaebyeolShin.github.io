@@ -10,7 +10,7 @@ redirect_from:
 Hi, I'm Saebyeol, Computer Science Ph.D. student at [Cornell University](https://www.cs.cornell.edu/), advised by [Prof. Kilian Q. Weinberger](https://www.cs.cornell.edu/~kilian/).
 
 Previously I interned at Visual Informatics Group @ University of Texas at Austin (VITA), advised by [Prof. Zhangyang "Atlas" Wang](https://vita-group.github.io/index.html).
-<br>I recieved B.S in Computer Science and Engineering & B.S. in Data Science at [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/).
+I recieved B.S in Computer Science and Engineering & B.S. in Data Science at [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/).
 
 <script type="text/javascript"> 
   function play(audio_id){
@@ -32,7 +32,7 @@ Previously I interned at Visual Informatics Group @ University of Texas at Austi
 
 <p>
     <audio id="saebyeol_pronunciation" src="./files/saebyeol_pronunciation.mp3"></audio>
-    My first name is pronounced "Sae-byeol" <a href="#" onclick="play('saebyeol_pronunciation');">[<i class="fa fa-fw fa-play"></i>]</a>
+    My first name is pronounced "Seh-B-yul (where 'Seh' is like 'set' and 'B-yul' is a soft 'b' followed by 'yul')" <a href="#" onclick="play('saebyeol_pronunciation');">[<i class="fa fa-fw fa-play"></i>]</a>
     <br>Feel free to reach out if you'd like to chat or collaborate with me.
 </p>
 
